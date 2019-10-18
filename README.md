@@ -7,3 +7,5 @@ Kevin Moore
 
 "test branch change"
 
+"test for newbranch merge to master"
+
